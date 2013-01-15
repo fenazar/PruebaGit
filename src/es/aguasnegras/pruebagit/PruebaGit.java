@@ -8,6 +8,7 @@ public class PruebaGit {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Subversion, tu antes molabas");
+		//esto es una prueba de control de versiones
 	}
 
 }
